@@ -1,0 +1,15 @@
+/* Listas */
+span{
+    color: purple;
+    font-size: 20px;
+}
+div{
+    background-color: blueviolet;
+    width: 200px;
+}
+
+.div2{
+    background-color: blueviolet;
+    width: 200px;
+    color:bisque
+}
